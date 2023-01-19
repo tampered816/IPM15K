@@ -31,8 +31,8 @@ pixel-level target extraction and pasting to the host image. If
 no corresponding MASK is available, can you find out where
 the image is tampered with?
 
-![pic.jpg](.\example.jpg)
+![](./example.jpg)
 
 ## Download
 
-[IPM15K](https://drive.google.com/file/d/15HimWXs72CuWkQZp6p0BffQWyqmS7dIa/view?usp=sharing)
+[IPM15K](https://drive.google.com/file/d/15HimWXs72CuWkQZp6p0BffQWyqmS7dIa/view?usp=share_link)
