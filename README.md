@@ -31,7 +31,7 @@ pixel-level target extraction and pasting to the host image. If
 no corresponding MASK is available, can you find out where
 the image is tampered with?
 
-![](./example.jpg)
+![](./example.jpg#pic_center)
 
 ## Download
 
