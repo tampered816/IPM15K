@@ -31,7 +31,9 @@ pixel-level target extraction and pasting to the host image. If
 no corresponding MASK is available, can you find out where
 the image is tampered with?
 
-![](./example.jpg#pic_center)
+<div align=center>
+  <img src='https://github.com/tampered816/IPM15K/blob/main/example.jpg#pic_center' />
+</div>
 
 ## Download
 
